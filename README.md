@@ -1,6 +1,6 @@
 ## Tarea 2
 
-**Entrega: Miércoles 22 de marzo de 2023**
+**Entrega: Miércoles 15 de marzo de 2023**
 
 *La tarea podrá realizarse en equipos de máximo 3 integrantes*
 
